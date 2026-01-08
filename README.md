@@ -2,8 +2,8 @@
 
 🚀 **Automated Assortment Activation & Space Planning Tool**
 
-**Role Target:** Senior Analyst, Assortment Activation
 **Tech Stack:** Python (Pandas, NumPy), SQL, Generative AI (LLM Prompting), Matplotlib
+
 **Domain Focus:** Retail Operations, Planogram Efficiency, Inventory Strategy
 
 ---
@@ -128,10 +128,12 @@ LOCATION: Home Department, Aisle 12, Section 4
 Here are the projected results from the optimization engine:
 
 **Figure 1: Projected Revenue Lift**
-![Figure 1](./Figure_1.png)
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/29cf4a70-d31e-43aa-ac13-dbea6a373479" />
+
 
 **Figure 2: Store Format Efficiency Heatmap**
-![Figure 2](./Figure_2.png)
+<img width="800" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/306b86ab-4433-45ee-84a8-d8aa9b939afb" />
+
 
 ---
 
@@ -244,3 +246,4 @@ python Code/sql_explorer.py
 The Modular Optimization Engine is more than just an analytics tool; it's a demonstration of how to connect high-level financial strategy with on-the-ground operational reality. By focusing on "Sales Per Linear Inch" and incorporating physical constraints into the optimization algorithm, this project provides a blueprint for a more effective and efficient assortment planning process.
 
 The use of AI to automate stakeholder communication further enhances the project's value, showcasing a forward-thinking approach to cross-functional collaboration. This tool is designed to empower retailers to make smarter, data-driven decisions that are both profitable and executable.
+
