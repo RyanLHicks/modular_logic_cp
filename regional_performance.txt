@@ -1,0 +1,12 @@
+SELECT 
+    p.category,
+    st.traffic_profile, -- High, Med, Low (Proxy for Urban/Rural)
+    COUNT(DISTINCT s.store_id) as store_count,
+    SUM(s.units_sold) as total_units,
+    -- Normalized Metric: Units Per Store Per Week
+    ROUND((SUM(s.units_sold) / COUNT(DISTINCT s.store_id)) / 12.0, 1) as avg_units_per_store_week
+FROM sales_regional s
+JOIN stores_regional st ON s.store_id = st.store_id
+JOIN products_regional p ON s.sku_id = p.sku_id
+GROUP BY p.category, st.traffic_profile
+ORDER BY p.category, avg_units_per_store_week DESC;

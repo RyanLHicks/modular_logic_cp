@@ -1,0 +1,1001 @@
+sku_id,product_name,category,width_inches,height_inches,unit_price,unit_cost
+50001,Grocery Item 1,Grocery,3.0,8.0,32.66,23.33
+50002,Electronics Item 2,Electronics,8.0,10.0,21.6,15.43
+50003,Personal Care Item 3,Personal Care,3.0,8.0,53.55,38.25
+50004,Personal Care Item 4,Personal Care,3.0,8.0,60.61,43.29
+50005,Toys Item 5,Toys,8.0,10.0,18.02,12.87
+50006,Electronics Item 6,Electronics,8.0,10.0,65.66,46.9
+50007,Grocery Item 7,Grocery,3.0,8.0,54.43,38.88
+50008,Toys Item 8,Toys,8.0,10.0,49.21,35.15
+50009,Toys Item 9,Toys,8.0,10.0,30.56,21.83
+50010,Grocery Item 10,Grocery,3.0,8.0,36.5,26.07
+50011,Electronics Item 11,Electronics,8.0,10.0,57.36,40.97
+50012,Personal Care Item 12,Personal Care,3.0,8.0,49.92,35.66
+50013,Grocery Item 13,Grocery,3.0,8.0,59.65,42.61
+50014,Toys Item 14,Toys,8.0,10.0,37.87,27.05
+50015,Personal Care Item 15,Personal Care,3.0,8.0,62.71,44.79
+50016,Electronics Item 16,Electronics,8.0,10.0,67.72,48.37
+50017,Electronics Item 17,Electronics,8.0,10.0,28.11,20.08
+50018,Toys Item 18,Toys,8.0,10.0,49.34,35.24
+50019,Personal Care Item 19,Personal Care,3.0,8.0,68.07,48.62
+50020,Electronics Item 20,Electronics,8.0,10.0,22.53,16.09
+50021,Personal Care Item 21,Personal Care,3.0,8.0,33.52,23.94
+50022,Home Item 22,Home,15.0,15.0,24.42,17.44
+50023,Grocery Item 23,Grocery,3.0,8.0,18.47,13.19
+50024,Electronics Item 24,Electronics,8.0,10.0,19.11,13.65
+50025,Toys Item 25,Toys,8.0,10.0,65.66,46.9
+50026,Toys Item 26,Toys,8.0,10.0,33.31,23.79
+50027,Personal Care Item 27,Personal Care,3.0,8.0,42.11,30.08
+50028,Toys Item 28,Toys,8.0,10.0,34.03,24.31
+50029,Personal Care Item 29,Personal Care,3.0,8.0,18.16,12.97
+50030,Grocery Item 30,Grocery,3.0,8.0,54.25,38.75
+50031,Home Item 31,Home,15.0,15.0,25.24,18.03
+50032,Home Item 32,Home,15.0,15.0,23.65,16.89
+50033,Grocery Item 33,Grocery,3.0,8.0,44.81,32.01
+50034,Grocery Item 34,Grocery,3.0,8.0,64.95,46.39
+50035,Grocery Item 35,Grocery,3.0,8.0,27.9,19.93
+50036,Electronics Item 36,Electronics,8.0,10.0,33.29,23.78
+50037,Home Item 37,Home,15.0,15.0,38.35,27.39
+50038,Grocery Item 38,Grocery,3.0,8.0,63.01,45.01
+50039,Home Item 39,Home,15.0,15.0,35.62,25.44
+50040,Grocery Item 40,Grocery,3.0,8.0,61.15,43.68
+50041,Home Item 41,Home,15.0,15.0,28.1,20.07
+50042,Home Item 42,Home,15.0,15.0,36.78,26.27
+50043,Personal Care Item 43,Personal Care,3.0,8.0,59.53,42.52
+50044,Electronics Item 44,Electronics,8.0,10.0,67.1,47.93
+50045,Toys Item 45,Toys,8.0,10.0,44.87,32.05
+50046,Toys Item 46,Toys,8.0,10.0,31.19,22.28
+50047,Electronics Item 47,Electronics,8.0,10.0,21.08,15.06
+50048,Personal Care Item 48,Personal Care,3.0,8.0,50.72,36.23
+50049,Grocery Item 49,Grocery,3.0,8.0,30.24,21.6
+50050,Home Item 50,Home,15.0,15.0,49.95,35.68
+50051,Home Item 51,Home,15.0,15.0,10.82,7.73
+50052,Home Item 52,Home,15.0,15.0,58.1,41.5
+50053,Home Item 53,Home,15.0,15.0,54.4,38.86
+50054,Personal Care Item 54,Personal Care,3.0,8.0,37.44,26.74
+50055,Personal Care Item 55,Personal Care,3.0,8.0,24.63,17.59
+50056,Toys Item 56,Toys,8.0,10.0,27.01,19.29
+50057,Home Item 57,Home,15.0,15.0,19.19,13.71
+50058,Grocery Item 58,Grocery,3.0,8.0,23.72,16.94
+50059,Home Item 59,Home,15.0,15.0,26.1,18.64
+50060,Grocery Item 60,Grocery,3.0,8.0,30.16,21.54
+50061,Grocery Item 61,Grocery,3.0,8.0,15.93,11.38
+50062,Grocery Item 62,Grocery,3.0,8.0,27.96,19.97
+50063,Home Item 63,Home,15.0,15.0,49.87,35.62
+50064,Electronics Item 64,Electronics,8.0,10.0,45.6,32.57
+50065,Home Item 65,Home,15.0,15.0,26.63,19.02
+50066,Toys Item 66,Toys,8.0,10.0,26.64,19.03
+50067,Toys Item 67,Toys,8.0,10.0,10.72,7.66
+50068,Electronics Item 68,Electronics,8.0,10.0,22.62,16.16
+50069,Home Item 69,Home,15.0,15.0,21.29,15.21
+50070,Personal Care Item 70,Personal Care,3.0,8.0,58.31,41.65
+50071,Grocery Item 71,Grocery,3.0,8.0,56.74,40.53
+50072,Toys Item 72,Toys,8.0,10.0,61.11,43.65
+50073,Personal Care Item 73,Personal Care,3.0,8.0,62.93,44.95
+50074,Personal Care Item 74,Personal Care,3.0,8.0,41.76,29.83
+50075,Electronics Item 75,Electronics,8.0,10.0,18.12,12.94
+50076,Grocery Item 76,Grocery,3.0,8.0,8.06,5.76
+50077,Personal Care Item 77,Personal Care,3.0,8.0,38.96,27.83
+50078,Toys Item 78,Toys,8.0,10.0,20.72,14.8
+50079,Toys Item 79,Toys,8.0,10.0,10.43,7.45
+50080,Personal Care Item 80,Personal Care,3.0,8.0,63.83,45.59
+50081,Electronics Item 81,Electronics,8.0,10.0,38.81,27.72
+50082,Personal Care Item 82,Personal Care,3.0,8.0,32.17,22.98
+50083,Toys Item 83,Toys,8.0,10.0,66.95,47.82
+50084,Electronics Item 84,Electronics,8.0,10.0,21.78,15.56
+50085,Toys Item 85,Toys,8.0,10.0,37.51,26.79
+50086,Grocery Item 86,Grocery,3.0,8.0,7.01,5.01
+50087,Grocery Item 87,Grocery,3.0,8.0,43.89,31.35
+50088,Grocery Item 88,Grocery,3.0,8.0,33.95,24.25
+50089,Toys Item 89,Toys,8.0,10.0,38.49,27.49
+50090,Electronics Item 90,Electronics,8.0,10.0,7.69,5.49
+50091,Grocery Item 91,Grocery,3.0,8.0,7.78,5.56
+50092,Personal Care Item 92,Personal Care,3.0,8.0,20.82,14.87
+50093,Toys Item 93,Toys,8.0,10.0,49.91,35.65
+50094,Grocery Item 94,Grocery,3.0,8.0,69.03,49.31
+50095,Electronics Item 95,Electronics,8.0,10.0,52.36,37.4
+50096,Electronics Item 96,Electronics,8.0,10.0,69.08,49.34
+50097,Personal Care Item 97,Personal Care,3.0,8.0,13.44,9.6
+50098,Grocery Item 98,Grocery,3.0,8.0,56.78,40.56
+50099,Toys Item 99,Toys,8.0,10.0,17.46,12.47
+50100,Toys Item 100,Toys,8.0,10.0,7.48,5.34
+50101,Electronics Item 101,Electronics,8.0,10.0,55.61,39.72
+50102,Grocery Item 102,Grocery,3.0,8.0,40.63,29.02
+50103,Home Item 103,Home,15.0,15.0,16.49,11.78
+50104,Toys Item 104,Toys,8.0,10.0,44.59,31.85
+50105,Grocery Item 105,Grocery,3.0,8.0,24.74,17.67
+50106,Grocery Item 106,Grocery,3.0,8.0,54.85,39.18
+50107,Electronics Item 107,Electronics,8.0,10.0,66.85,47.75
+50108,Personal Care Item 108,Personal Care,3.0,8.0,67.37,48.12
+50109,Grocery Item 109,Grocery,3.0,8.0,65.49,46.78
+50110,Electronics Item 110,Electronics,8.0,10.0,41.78,29.84
+50111,Toys Item 111,Toys,8.0,10.0,18.89,13.49
+50112,Toys Item 112,Toys,8.0,10.0,17.47,12.48
+50113,Toys Item 113,Toys,8.0,10.0,68.12,48.66
+50114,Toys Item 114,Toys,8.0,10.0,43.11,30.79
+50115,Toys Item 115,Toys,8.0,10.0,24.95,17.82
+50116,Electronics Item 116,Electronics,8.0,10.0,59.75,42.68
+50117,Grocery Item 117,Grocery,3.0,8.0,26.95,19.25
+50118,Personal Care Item 118,Personal Care,3.0,8.0,20.03,14.31
+50119,Grocery Item 119,Grocery,3.0,8.0,7.38,5.27
+50120,Toys Item 120,Toys,8.0,10.0,34.75,24.82
+50121,Electronics Item 121,Electronics,8.0,10.0,21.03,15.02
+50122,Personal Care Item 122,Personal Care,3.0,8.0,63.91,45.65
+50123,Toys Item 123,Toys,8.0,10.0,15.43,11.02
+50124,Grocery Item 124,Grocery,3.0,8.0,53.47,38.19
+50125,Electronics Item 125,Electronics,8.0,10.0,37.58,26.84
+50126,Personal Care Item 126,Personal Care,3.0,8.0,63.17,45.12
+50127,Toys Item 127,Toys,8.0,10.0,61.95,44.25
+50128,Toys Item 128,Toys,8.0,10.0,57.57,41.12
+50129,Toys Item 129,Toys,8.0,10.0,61.57,43.98
+50130,Toys Item 130,Toys,8.0,10.0,38.84,27.74
+50131,Electronics Item 131,Electronics,8.0,10.0,11.87,8.48
+50132,Home Item 132,Home,15.0,15.0,16.16,11.54
+50133,Personal Care Item 133,Personal Care,3.0,8.0,23.0,16.43
+50134,Grocery Item 134,Grocery,3.0,8.0,69.5,49.64
+50135,Electronics Item 135,Electronics,8.0,10.0,23.37,16.69
+50136,Toys Item 136,Toys,8.0,10.0,38.84,27.74
+50137,Home Item 137,Home,15.0,15.0,39.09,27.92
+50138,Home Item 138,Home,15.0,15.0,60.93,43.52
+50139,Toys Item 139,Toys,8.0,10.0,21.03,15.02
+50140,Home Item 140,Home,15.0,15.0,19.12,13.66
+50141,Toys Item 141,Toys,8.0,10.0,49.42,35.3
+50142,Grocery Item 142,Grocery,3.0,8.0,8.9,6.36
+50143,Home Item 143,Home,15.0,15.0,69.03,49.31
+50144,Home Item 144,Home,15.0,15.0,58.2,41.57
+50145,Home Item 145,Home,15.0,15.0,53.14,37.96
+50146,Grocery Item 146,Grocery,3.0,8.0,50.3,35.93
+50147,Electronics Item 147,Electronics,8.0,10.0,14.08,10.06
+50148,Personal Care Item 148,Personal Care,3.0,8.0,31.85,22.75
+50149,Grocery Item 149,Grocery,3.0,8.0,38.67,27.62
+50150,Grocery Item 150,Grocery,3.0,8.0,40.25,28.75
+50151,Personal Care Item 151,Personal Care,3.0,8.0,47.19,33.71
+50152,Toys Item 152,Toys,8.0,10.0,18.73,13.38
+50153,Home Item 153,Home,15.0,15.0,53.24,38.03
+50154,Grocery Item 154,Grocery,3.0,8.0,33.24,23.74
+50155,Home Item 155,Home,15.0,15.0,68.66,49.04
+50156,Grocery Item 156,Grocery,3.0,8.0,38.35,27.39
+50157,Electronics Item 157,Electronics,8.0,10.0,58.13,41.52
+50158,Electronics Item 158,Electronics,8.0,10.0,39.07,27.91
+50159,Electronics Item 159,Electronics,8.0,10.0,7.32,5.23
+50160,Electronics Item 160,Electronics,8.0,10.0,37.93,27.09
+50161,Personal Care Item 161,Personal Care,3.0,8.0,9.79,6.99
+50162,Home Item 162,Home,15.0,15.0,41.83,29.88
+50163,Personal Care Item 163,Personal Care,3.0,8.0,26.7,19.07
+50164,Toys Item 164,Toys,8.0,10.0,67.91,48.51
+50165,Toys Item 165,Toys,8.0,10.0,68.71,49.08
+50166,Grocery Item 166,Grocery,3.0,8.0,32.07,22.91
+50167,Home Item 167,Home,15.0,15.0,44.77,31.98
+50168,Toys Item 168,Toys,8.0,10.0,40.54,28.96
+50169,Home Item 169,Home,15.0,15.0,14.92,10.66
+50170,Electronics Item 170,Electronics,8.0,10.0,56.56,40.4
+50171,Toys Item 171,Toys,8.0,10.0,30.14,21.53
+50172,Electronics Item 172,Electronics,8.0,10.0,41.47,29.62
+50173,Toys Item 173,Toys,8.0,10.0,17.56,12.54
+50174,Home Item 174,Home,15.0,15.0,51.83,37.02
+50175,Electronics Item 175,Electronics,8.0,10.0,26.12,18.66
+50176,Home Item 176,Home,15.0,15.0,51.67,36.91
+50177,Home Item 177,Home,15.0,15.0,66.42,47.44
+50178,Home Item 178,Home,15.0,15.0,67.0,47.86
+50179,Toys Item 179,Toys,8.0,10.0,27.13,19.38
+50180,Grocery Item 180,Grocery,3.0,8.0,21.22,15.16
+50181,Grocery Item 181,Grocery,3.0,8.0,10.39,7.42
+50182,Home Item 182,Home,15.0,15.0,13.93,9.95
+50183,Grocery Item 183,Grocery,3.0,8.0,10.49,7.49
+50184,Grocery Item 184,Grocery,3.0,8.0,18.94,13.53
+50185,Electronics Item 185,Electronics,8.0,10.0,28.6,20.43
+50186,Toys Item 186,Toys,8.0,10.0,12.14,8.67
+50187,Grocery Item 187,Grocery,3.0,8.0,27.01,19.29
+50188,Grocery Item 188,Grocery,3.0,8.0,13.24,9.46
+50189,Toys Item 189,Toys,8.0,10.0,23.03,16.45
+50190,Grocery Item 190,Grocery,3.0,8.0,26.81,19.15
+50191,Toys Item 191,Toys,8.0,10.0,41.92,29.94
+50192,Home Item 192,Home,15.0,15.0,53.0,37.86
+50193,Grocery Item 193,Grocery,3.0,8.0,13.59,9.71
+50194,Toys Item 194,Toys,8.0,10.0,54.36,38.83
+50195,Electronics Item 195,Electronics,8.0,10.0,53.97,38.55
+50196,Home Item 196,Home,15.0,15.0,47.84,34.17
+50197,Toys Item 197,Toys,8.0,10.0,29.72,21.23
+50198,Electronics Item 198,Electronics,8.0,10.0,47.0,33.57
+50199,Personal Care Item 199,Personal Care,3.0,8.0,68.11,48.65
+50200,Personal Care Item 200,Personal Care,3.0,8.0,29.75,21.25
+50201,Toys Item 201,Toys,8.0,10.0,8.5,6.07
+50202,Grocery Item 202,Grocery,3.0,8.0,59.16,42.26
+50203,Toys Item 203,Toys,8.0,10.0,68.26,48.76
+50204,Toys Item 204,Toys,8.0,10.0,65.88,47.06
+50205,Electronics Item 205,Electronics,8.0,10.0,11.1,7.93
+50206,Home Item 206,Home,15.0,15.0,15.43,11.02
+50207,Home Item 207,Home,15.0,15.0,66.72,47.66
+50208,Personal Care Item 208,Personal Care,3.0,8.0,43.69,31.21
+50209,Personal Care Item 209,Personal Care,3.0,8.0,24.85,17.75
+50210,Home Item 210,Home,15.0,15.0,49.24,35.17
+50211,Toys Item 211,Toys,8.0,10.0,33.28,23.77
+50212,Electronics Item 212,Electronics,8.0,10.0,37.13,26.52
+50213,Grocery Item 213,Grocery,3.0,8.0,50.65,36.18
+50214,Home Item 214,Home,15.0,15.0,69.24,49.46
+50215,Toys Item 215,Toys,8.0,10.0,47.45,33.89
+50216,Electronics Item 216,Electronics,8.0,10.0,30.11,21.51
+50217,Personal Care Item 217,Personal Care,3.0,8.0,36.71,26.22
+50218,Personal Care Item 218,Personal Care,3.0,8.0,64.02,45.73
+50219,Personal Care Item 219,Personal Care,3.0,8.0,52.82,37.73
+50220,Grocery Item 220,Grocery,3.0,8.0,69.45,49.61
+50221,Home Item 221,Home,15.0,15.0,48.2,34.43
+50222,Personal Care Item 222,Personal Care,3.0,8.0,43.34,30.96
+50223,Home Item 223,Home,15.0,15.0,44.24,31.6
+50224,Home Item 224,Home,15.0,15.0,26.99,19.28
+50225,Toys Item 225,Toys,8.0,10.0,25.44,18.17
+50226,Home Item 226,Home,15.0,15.0,52.43,37.45
+50227,Toys Item 227,Toys,8.0,10.0,46.47,33.19
+50228,Electronics Item 228,Electronics,8.0,10.0,12.94,9.24
+50229,Electronics Item 229,Electronics,8.0,10.0,58.88,42.06
+50230,Grocery Item 230,Grocery,3.0,8.0,39.87,28.48
+50231,Grocery Item 231,Grocery,3.0,8.0,21.41,15.29
+50232,Grocery Item 232,Grocery,3.0,8.0,50.79,36.28
+50233,Home Item 233,Home,15.0,15.0,44.09,31.49
+50234,Grocery Item 234,Grocery,3.0,8.0,27.99,19.99
+50235,Personal Care Item 235,Personal Care,3.0,8.0,13.94,9.96
+50236,Grocery Item 236,Grocery,3.0,8.0,39.94,28.53
+50237,Personal Care Item 237,Personal Care,3.0,8.0,25.96,18.54
+50238,Electronics Item 238,Electronics,8.0,10.0,12.05,8.61
+50239,Toys Item 239,Toys,8.0,10.0,43.89,31.35
+50240,Grocery Item 240,Grocery,3.0,8.0,62.05,44.32
+50241,Personal Care Item 241,Personal Care,3.0,8.0,62.22,44.44
+50242,Toys Item 242,Toys,8.0,10.0,8.64,6.17
+50243,Grocery Item 243,Grocery,3.0,8.0,60.86,43.47
+50244,Grocery Item 244,Grocery,3.0,8.0,9.0,6.43
+50245,Home Item 245,Home,15.0,15.0,66.67,47.62
+50246,Toys Item 246,Toys,8.0,10.0,35.07,25.05
+50247,Electronics Item 247,Electronics,8.0,10.0,68.08,48.63
+50248,Grocery Item 248,Grocery,3.0,8.0,8.65,6.18
+50249,Toys Item 249,Toys,8.0,10.0,47.36,33.83
+50250,Electronics Item 250,Electronics,8.0,10.0,39.69,28.35
+50251,Home Item 251,Home,15.0,15.0,65.42,46.73
+50252,Electronics Item 252,Electronics,8.0,10.0,34.19,24.42
+50253,Grocery Item 253,Grocery,3.0,8.0,41.36,29.54
+50254,Grocery Item 254,Grocery,3.0,8.0,62.01,44.29
+50255,Home Item 255,Home,15.0,15.0,35.36,25.26
+50256,Home Item 256,Home,15.0,15.0,44.41,31.72
+50257,Electronics Item 257,Electronics,8.0,10.0,26.74,19.1
+50258,Electronics Item 258,Electronics,8.0,10.0,42.35,30.25
+50259,Home Item 259,Home,15.0,15.0,15.69,11.21
+50260,Home Item 260,Home,15.0,15.0,32.89,23.49
+50261,Personal Care Item 261,Personal Care,3.0,8.0,40.29,28.78
+50262,Grocery Item 262,Grocery,3.0,8.0,44.2,31.57
+50263,Personal Care Item 263,Personal Care,3.0,8.0,57.18,40.84
+50264,Grocery Item 264,Grocery,3.0,8.0,59.28,42.34
+50265,Home Item 265,Home,15.0,15.0,65.76,46.97
+50266,Personal Care Item 266,Personal Care,3.0,8.0,65.24,46.6
+50267,Electronics Item 267,Electronics,8.0,10.0,7.48,5.34
+50268,Grocery Item 268,Grocery,3.0,8.0,68.88,49.2
+50269,Grocery Item 269,Grocery,3.0,8.0,64.88,46.34
+50270,Home Item 270,Home,15.0,15.0,47.98,34.27
+50271,Electronics Item 271,Electronics,8.0,10.0,19.52,13.94
+50272,Home Item 272,Home,15.0,15.0,9.23,6.59
+50273,Electronics Item 273,Electronics,8.0,10.0,41.59,29.71
+50274,Home Item 274,Home,15.0,15.0,39.05,27.89
+50275,Electronics Item 275,Electronics,8.0,10.0,53.47,38.19
+50276,Home Item 276,Home,15.0,15.0,62.12,44.37
+50277,Toys Item 277,Toys,8.0,10.0,32.91,23.51
+50278,Grocery Item 278,Grocery,3.0,8.0,29.58,21.13
+50279,Home Item 279,Home,15.0,15.0,30.81,22.01
+50280,Home Item 280,Home,15.0,15.0,27.47,19.62
+50281,Grocery Item 281,Grocery,3.0,8.0,18.28,13.06
+50282,Grocery Item 282,Grocery,3.0,8.0,30.02,21.44
+50283,Toys Item 283,Toys,8.0,10.0,63.42,45.3
+50284,Grocery Item 284,Grocery,3.0,8.0,28.6,20.43
+50285,Toys Item 285,Toys,8.0,10.0,15.89,11.35
+50286,Home Item 286,Home,15.0,15.0,63.88,45.63
+50287,Electronics Item 287,Electronics,8.0,10.0,26.74,19.1
+50288,Personal Care Item 288,Personal Care,3.0,8.0,19.26,13.76
+50289,Grocery Item 289,Grocery,3.0,8.0,38.91,27.79
+50290,Grocery Item 290,Grocery,3.0,8.0,21.25,15.18
+50291,Personal Care Item 291,Personal Care,3.0,8.0,20.24,14.46
+50292,Grocery Item 292,Grocery,3.0,8.0,13.73,9.81
+50293,Home Item 293,Home,15.0,15.0,49.78,35.56
+50294,Grocery Item 294,Grocery,3.0,8.0,27.16,19.4
+50295,Grocery Item 295,Grocery,3.0,8.0,55.29,39.49
+50296,Electronics Item 296,Electronics,8.0,10.0,9.51,6.79
+50297,Home Item 297,Home,15.0,15.0,27.31,19.51
+50298,Home Item 298,Home,15.0,15.0,68.54,48.96
+50299,Toys Item 299,Toys,8.0,10.0,28.29,20.21
+50300,Personal Care Item 300,Personal Care,3.0,8.0,39.13,27.95
+50301,Home Item 301,Home,15.0,15.0,54.7,39.07
+50302,Electronics Item 302,Electronics,8.0,10.0,15.39,10.99
+50303,Electronics Item 303,Electronics,8.0,10.0,28.71,20.51
+50304,Toys Item 304,Toys,8.0,10.0,39.59,28.28
+50305,Electronics Item 305,Electronics,8.0,10.0,46.33,33.09
+50306,Electronics Item 306,Electronics,8.0,10.0,34.57,24.69
+50307,Toys Item 307,Toys,8.0,10.0,22.82,16.3
+50308,Electronics Item 308,Electronics,8.0,10.0,15.13,10.81
+50309,Toys Item 309,Toys,8.0,10.0,40.19,28.71
+50310,Home Item 310,Home,15.0,15.0,56.99,40.71
+50311,Toys Item 311,Toys,8.0,10.0,41.47,29.62
+50312,Home Item 312,Home,15.0,15.0,43.32,30.94
+50313,Electronics Item 313,Electronics,8.0,10.0,45.98,32.84
+50314,Electronics Item 314,Electronics,8.0,10.0,51.87,37.05
+50315,Grocery Item 315,Grocery,3.0,8.0,33.04,23.6
+50316,Personal Care Item 316,Personal Care,3.0,8.0,24.6,17.57
+50317,Personal Care Item 317,Personal Care,3.0,8.0,58.37,41.69
+50318,Electronics Item 318,Electronics,8.0,10.0,43.67,31.19
+50319,Toys Item 319,Toys,8.0,10.0,31.89,22.78
+50320,Grocery Item 320,Grocery,3.0,8.0,64.67,46.19
+50321,Grocery Item 321,Grocery,3.0,8.0,42.35,30.25
+50322,Grocery Item 322,Grocery,3.0,8.0,17.86,12.76
+50323,Personal Care Item 323,Personal Care,3.0,8.0,60.86,43.47
+50324,Electronics Item 324,Electronics,8.0,10.0,26.35,18.82
+50325,Home Item 325,Home,15.0,15.0,19.99,14.28
+50326,Home Item 326,Home,15.0,15.0,65.74,46.96
+50327,Home Item 327,Home,15.0,15.0,35.29,25.21
+50328,Home Item 328,Home,15.0,15.0,43.43,31.02
+50329,Electronics Item 329,Electronics,8.0,10.0,56.14,40.1
+50330,Electronics Item 330,Electronics,8.0,10.0,69.33,49.52
+50331,Home Item 331,Home,15.0,15.0,53.58,38.27
+50332,Toys Item 332,Toys,8.0,10.0,36.93,26.38
+50333,Grocery Item 333,Grocery,3.0,8.0,65.88,47.06
+50334,Electronics Item 334,Electronics,8.0,10.0,18.16,12.97
+50335,Grocery Item 335,Grocery,3.0,8.0,30.76,21.97
+50336,Home Item 336,Home,15.0,15.0,45.05,32.18
+50337,Home Item 337,Home,15.0,15.0,24.91,17.79
+50338,Electronics Item 338,Electronics,8.0,10.0,29.92,21.37
+50339,Toys Item 339,Toys,8.0,10.0,52.89,37.78
+50340,Toys Item 340,Toys,8.0,10.0,64.81,46.29
+50341,Toys Item 341,Toys,8.0,10.0,50.3,35.93
+50342,Personal Care Item 342,Personal Care,3.0,8.0,16.73,11.95
+50343,Grocery Item 343,Grocery,3.0,8.0,58.46,41.76
+50344,Electronics Item 344,Electronics,8.0,10.0,44.84,32.03
+50345,Personal Care Item 345,Personal Care,3.0,8.0,50.78,36.27
+50346,Grocery Item 346,Grocery,3.0,8.0,43.72,31.23
+50347,Grocery Item 347,Grocery,3.0,8.0,64.11,45.79
+50348,Personal Care Item 348,Personal Care,3.0,8.0,48.82,34.87
+50349,Toys Item 349,Toys,8.0,10.0,23.77,16.98
+50350,Personal Care Item 350,Personal Care,3.0,8.0,11.69,8.35
+50351,Toys Item 351,Toys,8.0,10.0,63.35,45.25
+50352,Home Item 352,Home,15.0,15.0,63.29,45.21
+50353,Grocery Item 353,Grocery,3.0,8.0,26.21,18.72
+50354,Electronics Item 354,Electronics,8.0,10.0,67.23,48.02
+50355,Electronics Item 355,Electronics,8.0,10.0,33.45,23.89
+50356,Electronics Item 356,Electronics,8.0,10.0,39.07,27.91
+50357,Toys Item 357,Toys,8.0,10.0,49.99,35.71
+50358,Grocery Item 358,Grocery,3.0,8.0,38.02,27.16
+50359,Electronics Item 359,Electronics,8.0,10.0,33.67,24.05
+50360,Home Item 360,Home,15.0,15.0,21.22,15.16
+50361,Electronics Item 361,Electronics,8.0,10.0,17.56,12.54
+50362,Electronics Item 362,Electronics,8.0,10.0,27.4,19.57
+50363,Electronics Item 363,Electronics,8.0,10.0,14.25,10.18
+50364,Grocery Item 364,Grocery,3.0,8.0,10.63,7.59
+50365,Home Item 365,Home,15.0,15.0,57.65,41.18
+50366,Toys Item 366,Toys,8.0,10.0,46.49,33.21
+50367,Personal Care Item 367,Personal Care,3.0,8.0,17.08,12.2
+50368,Personal Care Item 368,Personal Care,3.0,8.0,29.65,21.18
+50369,Electronics Item 369,Electronics,8.0,10.0,28.84,20.6
+50370,Home Item 370,Home,15.0,15.0,46.38,33.13
+50371,Grocery Item 371,Grocery,3.0,8.0,27.85,19.89
+50372,Personal Care Item 372,Personal Care,3.0,8.0,35.85,25.61
+50373,Electronics Item 373,Electronics,8.0,10.0,25.52,18.23
+50374,Home Item 374,Home,15.0,15.0,31.21,22.29
+50375,Grocery Item 375,Grocery,3.0,8.0,27.75,19.82
+50376,Toys Item 376,Toys,8.0,10.0,25.73,18.38
+50377,Personal Care Item 377,Personal Care,3.0,8.0,62.97,44.98
+50378,Electronics Item 378,Electronics,8.0,10.0,11.24,8.03
+50379,Home Item 379,Home,15.0,15.0,36.79,26.28
+50380,Home Item 380,Home,15.0,15.0,55.24,39.46
+50381,Personal Care Item 381,Personal Care,3.0,8.0,30.06,21.47
+50382,Personal Care Item 382,Personal Care,3.0,8.0,53.47,38.19
+50383,Electronics Item 383,Electronics,8.0,10.0,40.52,28.94
+50384,Home Item 384,Home,15.0,15.0,61.19,43.71
+50385,Electronics Item 385,Electronics,8.0,10.0,40.29,28.78
+50386,Home Item 386,Home,15.0,15.0,64.92,46.37
+50387,Toys Item 387,Toys,8.0,10.0,17.71,12.65
+50388,Home Item 388,Home,15.0,15.0,7.7,5.5
+50389,Electronics Item 389,Electronics,8.0,10.0,42.24,30.17
+50390,Toys Item 390,Toys,8.0,10.0,28.55,20.39
+50391,Toys Item 391,Toys,8.0,10.0,8.47,6.05
+50392,Electronics Item 392,Electronics,8.0,10.0,31.21,22.29
+50393,Personal Care Item 393,Personal Care,3.0,8.0,44.88,32.06
+50394,Home Item 394,Home,15.0,15.0,68.81,49.15
+50395,Home Item 395,Home,15.0,15.0,50.39,35.99
+50396,Toys Item 396,Toys,8.0,10.0,68.71,49.08
+50397,Personal Care Item 397,Personal Care,3.0,8.0,56.88,40.63
+50398,Toys Item 398,Toys,8.0,10.0,23.66,16.9
+50399,Electronics Item 399,Electronics,8.0,10.0,7.53,5.38
+50400,Grocery Item 400,Grocery,3.0,8.0,56.91,40.65
+50401,Personal Care Item 401,Personal Care,3.0,8.0,29.95,21.39
+50402,Grocery Item 402,Grocery,3.0,8.0,13.64,9.74
+50403,Electronics Item 403,Electronics,8.0,10.0,34.86,24.9
+50404,Personal Care Item 404,Personal Care,3.0,8.0,40.59,28.99
+50405,Electronics Item 405,Electronics,8.0,10.0,55.03,39.31
+50406,Home Item 406,Home,15.0,15.0,27.52,19.66
+50407,Home Item 407,Home,15.0,15.0,36.65,26.18
+50408,Grocery Item 408,Grocery,3.0,8.0,24.08,17.2
+50409,Grocery Item 409,Grocery,3.0,8.0,12.21,8.72
+50410,Grocery Item 410,Grocery,3.0,8.0,50.08,35.77
+50411,Toys Item 411,Toys,8.0,10.0,7.56,5.4
+50412,Personal Care Item 412,Personal Care,3.0,8.0,47.82,34.16
+50413,Personal Care Item 413,Personal Care,3.0,8.0,34.89,24.92
+50414,Personal Care Item 414,Personal Care,3.0,8.0,34.69,24.78
+50415,Personal Care Item 415,Personal Care,3.0,8.0,21.8,15.57
+50416,Home Item 416,Home,15.0,15.0,23.76,16.97
+50417,Electronics Item 417,Electronics,8.0,10.0,22.86,16.33
+50418,Toys Item 418,Toys,8.0,10.0,46.61,33.29
+50419,Toys Item 419,Toys,8.0,10.0,31.93,22.81
+50420,Electronics Item 420,Electronics,8.0,10.0,59.39,42.42
+50421,Toys Item 421,Toys,8.0,10.0,40.17,28.69
+50422,Home Item 422,Home,15.0,15.0,58.18,41.56
+50423,Electronics Item 423,Electronics,8.0,10.0,57.4,41.0
+50424,Home Item 424,Home,15.0,15.0,45.92,32.8
+50425,Grocery Item 425,Grocery,3.0,8.0,44.35,31.68
+50426,Home Item 426,Home,15.0,15.0,47.92,34.23
+50427,Home Item 427,Home,15.0,15.0,7.03,5.02
+50428,Home Item 428,Home,15.0,15.0,28.01,20.01
+50429,Electronics Item 429,Electronics,8.0,10.0,44.31,31.65
+50430,Electronics Item 430,Electronics,8.0,10.0,65.97,47.12
+50431,Home Item 431,Home,15.0,15.0,62.02,44.3
+50432,Toys Item 432,Toys,8.0,10.0,44.87,32.05
+50433,Electronics Item 433,Electronics,8.0,10.0,32.2,23.0
+50434,Electronics Item 434,Electronics,8.0,10.0,53.13,37.95
+50435,Personal Care Item 435,Personal Care,3.0,8.0,31.02,22.16
+50436,Personal Care Item 436,Personal Care,3.0,8.0,19.89,14.21
+50437,Home Item 437,Home,15.0,15.0,20.01,14.29
+50438,Grocery Item 438,Grocery,3.0,8.0,41.27,29.48
+50439,Personal Care Item 439,Personal Care,3.0,8.0,18.34,13.1
+50440,Electronics Item 440,Electronics,8.0,10.0,48.4,34.57
+50441,Personal Care Item 441,Personal Care,3.0,8.0,33.6,24.0
+50442,Electronics Item 442,Electronics,8.0,10.0,38.18,27.27
+50443,Personal Care Item 443,Personal Care,3.0,8.0,50.47,36.05
+50444,Toys Item 444,Toys,8.0,10.0,28.0,20.0
+50445,Personal Care Item 445,Personal Care,3.0,8.0,68.04,48.6
+50446,Toys Item 446,Toys,8.0,10.0,55.38,39.56
+50447,Personal Care Item 447,Personal Care,3.0,8.0,20.45,14.61
+50448,Electronics Item 448,Electronics,8.0,10.0,20.37,14.55
+50449,Personal Care Item 449,Personal Care,3.0,8.0,37.76,26.97
+50450,Home Item 450,Home,15.0,15.0,20.03,14.31
+50451,Toys Item 451,Toys,8.0,10.0,53.09,37.92
+50452,Grocery Item 452,Grocery,3.0,8.0,69.68,49.77
+50453,Toys Item 453,Toys,8.0,10.0,33.08,23.63
+50454,Home Item 454,Home,15.0,15.0,31.07,22.19
+50455,Personal Care Item 455,Personal Care,3.0,8.0,13.47,9.62
+50456,Home Item 456,Home,15.0,15.0,25.3,18.07
+50457,Personal Care Item 457,Personal Care,3.0,8.0,19.96,14.26
+50458,Home Item 458,Home,15.0,15.0,15.99,11.42
+50459,Home Item 459,Home,15.0,15.0,13.82,9.87
+50460,Grocery Item 460,Grocery,3.0,8.0,17.61,12.58
+50461,Personal Care Item 461,Personal Care,3.0,8.0,32.1,22.93
+50462,Personal Care Item 462,Personal Care,3.0,8.0,14.76,10.54
+50463,Electronics Item 463,Electronics,8.0,10.0,40.63,29.02
+50464,Toys Item 464,Toys,8.0,10.0,55.06,39.33
+50465,Toys Item 465,Toys,8.0,10.0,54.08,38.63
+50466,Personal Care Item 466,Personal Care,3.0,8.0,36.04,25.74
+50467,Grocery Item 467,Grocery,3.0,8.0,19.38,13.84
+50468,Grocery Item 468,Grocery,3.0,8.0,39.16,27.97
+50469,Grocery Item 469,Grocery,3.0,8.0,8.93,6.38
+50470,Personal Care Item 470,Personal Care,3.0,8.0,26.63,19.02
+50471,Electronics Item 471,Electronics,8.0,10.0,27.41,19.58
+50472,Home Item 472,Home,15.0,15.0,43.92,31.37
+50473,Grocery Item 473,Grocery,3.0,8.0,35.39,25.28
+50474,Toys Item 474,Toys,8.0,10.0,44.25,31.61
+50475,Personal Care Item 475,Personal Care,3.0,8.0,36.19,25.85
+50476,Home Item 476,Home,15.0,15.0,52.54,37.53
+50477,Home Item 477,Home,15.0,15.0,12.77,9.12
+50478,Personal Care Item 478,Personal Care,3.0,8.0,26.52,18.94
+50479,Toys Item 479,Toys,8.0,10.0,28.03,20.02
+50480,Home Item 480,Home,15.0,15.0,64.16,45.83
+50481,Grocery Item 481,Grocery,3.0,8.0,56.88,40.63
+50482,Electronics Item 482,Electronics,8.0,10.0,30.98,22.13
+50483,Electronics Item 483,Electronics,8.0,10.0,68.92,49.23
+50484,Toys Item 484,Toys,8.0,10.0,41.87,29.91
+50485,Electronics Item 485,Electronics,8.0,10.0,69.85,49.89
+50486,Home Item 486,Home,15.0,15.0,67.96,48.54
+50487,Toys Item 487,Toys,8.0,10.0,28.28,20.2
+50488,Electronics Item 488,Electronics,8.0,10.0,32.31,23.08
+50489,Electronics Item 489,Electronics,8.0,10.0,67.75,48.39
+50490,Toys Item 490,Toys,8.0,10.0,53.83,38.45
+50491,Electronics Item 491,Electronics,8.0,10.0,53.86,38.47
+50492,Toys Item 492,Toys,8.0,10.0,9.0,6.43
+50493,Grocery Item 493,Grocery,3.0,8.0,24.75,17.68
+50494,Personal Care Item 494,Personal Care,3.0,8.0,66.12,47.23
+50495,Grocery Item 495,Grocery,3.0,8.0,29.22,20.87
+50496,Grocery Item 496,Grocery,3.0,8.0,51.59,36.85
+50497,Electronics Item 497,Electronics,8.0,10.0,60.07,42.91
+50498,Toys Item 498,Toys,8.0,10.0,31.75,22.68
+50499,Grocery Item 499,Grocery,3.0,8.0,16.14,11.53
+50500,Electronics Item 500,Electronics,8.0,10.0,68.81,49.15
+50501,Grocery Item 501,Grocery,3.0,8.0,54.96,39.26
+50502,Grocery Item 502,Grocery,3.0,8.0,7.81,5.58
+50503,Electronics Item 503,Electronics,8.0,10.0,61.63,44.02
+50504,Grocery Item 504,Grocery,3.0,8.0,13.79,9.85
+50505,Home Item 505,Home,15.0,15.0,12.35,8.82
+50506,Home Item 506,Home,15.0,15.0,16.49,11.78
+50507,Grocery Item 507,Grocery,3.0,8.0,34.9,24.93
+50508,Toys Item 508,Toys,8.0,10.0,44.3,31.64
+50509,Home Item 509,Home,15.0,15.0,64.93,46.38
+50510,Electronics Item 510,Electronics,8.0,10.0,8.27,5.91
+50511,Electronics Item 511,Electronics,8.0,10.0,39.55,28.25
+50512,Toys Item 512,Toys,8.0,10.0,66.75,47.68
+50513,Home Item 513,Home,15.0,15.0,60.8,43.43
+50514,Grocery Item 514,Grocery,3.0,8.0,42.56,30.4
+50515,Personal Care Item 515,Personal Care,3.0,8.0,69.29,49.49
+50516,Personal Care Item 516,Personal Care,3.0,8.0,39.91,28.51
+50517,Personal Care Item 517,Personal Care,3.0,8.0,67.79,48.42
+50518,Grocery Item 518,Grocery,3.0,8.0,18.45,13.18
+50519,Personal Care Item 519,Personal Care,3.0,8.0,56.04,40.03
+50520,Toys Item 520,Toys,8.0,10.0,47.1,33.64
+50521,Personal Care Item 521,Personal Care,3.0,8.0,64.46,46.04
+50522,Electronics Item 522,Electronics,8.0,10.0,29.48,21.06
+50523,Toys Item 523,Toys,8.0,10.0,25.16,17.97
+50524,Grocery Item 524,Grocery,3.0,8.0,27.06,19.33
+50525,Grocery Item 525,Grocery,3.0,8.0,11.7,8.36
+50526,Home Item 526,Home,15.0,15.0,61.98,44.27
+50527,Personal Care Item 527,Personal Care,3.0,8.0,25.02,17.87
+50528,Home Item 528,Home,15.0,15.0,30.51,21.79
+50529,Home Item 529,Home,15.0,15.0,68.99,49.28
+50530,Home Item 530,Home,15.0,15.0,51.87,37.05
+50531,Personal Care Item 531,Personal Care,3.0,8.0,64.9,46.36
+50532,Personal Care Item 532,Personal Care,3.0,8.0,13.52,9.66
+50533,Home Item 533,Home,15.0,15.0,36.39,25.99
+50534,Personal Care Item 534,Personal Care,3.0,8.0,55.73,39.81
+50535,Toys Item 535,Toys,8.0,10.0,66.88,47.77
+50536,Personal Care Item 536,Personal Care,3.0,8.0,20.24,14.46
+50537,Home Item 537,Home,15.0,15.0,42.7,30.5
+50538,Electronics Item 538,Electronics,8.0,10.0,21.83,15.59
+50539,Personal Care Item 539,Personal Care,3.0,8.0,69.89,49.92
+50540,Toys Item 540,Toys,8.0,10.0,10.88,7.77
+50541,Personal Care Item 541,Personal Care,3.0,8.0,67.51,48.22
+50542,Grocery Item 542,Grocery,3.0,8.0,21.08,15.06
+50543,Grocery Item 543,Grocery,3.0,8.0,19.21,13.72
+50544,Grocery Item 544,Grocery,3.0,8.0,64.02,45.73
+50545,Toys Item 545,Toys,8.0,10.0,7.57,5.41
+50546,Home Item 546,Home,15.0,15.0,64.93,46.38
+50547,Electronics Item 547,Electronics,8.0,10.0,34.66,24.76
+50548,Grocery Item 548,Grocery,3.0,8.0,31.57,22.55
+50549,Personal Care Item 549,Personal Care,3.0,8.0,44.09,31.49
+50550,Electronics Item 550,Electronics,8.0,10.0,35.11,25.08
+50551,Home Item 551,Home,15.0,15.0,57.05,40.75
+50552,Grocery Item 552,Grocery,3.0,8.0,11.05,7.89
+50553,Electronics Item 553,Electronics,8.0,10.0,30.13,21.52
+50554,Grocery Item 554,Grocery,3.0,8.0,66.16,47.26
+50555,Personal Care Item 555,Personal Care,3.0,8.0,58.13,41.52
+50556,Grocery Item 556,Grocery,3.0,8.0,12.6,9.0
+50557,Personal Care Item 557,Personal Care,3.0,8.0,7.08,5.06
+50558,Toys Item 558,Toys,8.0,10.0,65.42,46.73
+50559,Home Item 559,Home,15.0,15.0,49.2,35.14
+50560,Grocery Item 560,Grocery,3.0,8.0,22.67,16.19
+50561,Personal Care Item 561,Personal Care,3.0,8.0,20.29,14.49
+50562,Personal Care Item 562,Personal Care,3.0,8.0,47.32,33.8
+50563,Home Item 563,Home,15.0,15.0,24.88,17.77
+50564,Home Item 564,Home,15.0,15.0,7.98,5.7
+50565,Home Item 565,Home,15.0,15.0,38.89,27.78
+50566,Electronics Item 566,Electronics,8.0,10.0,61.99,44.28
+50567,Grocery Item 567,Grocery,3.0,8.0,52.98,37.84
+50568,Toys Item 568,Toys,8.0,10.0,50.4,36.0
+50569,Personal Care Item 569,Personal Care,3.0,8.0,51.98,37.13
+50570,Home Item 570,Home,15.0,15.0,61.35,43.82
+50571,Electronics Item 571,Electronics,8.0,10.0,56.11,40.08
+50572,Personal Care Item 572,Personal Care,3.0,8.0,23.04,16.46
+50573,Electronics Item 573,Electronics,8.0,10.0,35.87,25.62
+50574,Home Item 574,Home,15.0,15.0,59.4,42.43
+50575,Home Item 575,Home,15.0,15.0,30.09,21.49
+50576,Toys Item 576,Toys,8.0,10.0,16.25,11.61
+50577,Personal Care Item 577,Personal Care,3.0,8.0,60.42,43.16
+50578,Home Item 578,Home,15.0,15.0,42.88,30.63
+50579,Toys Item 579,Toys,8.0,10.0,63.06,45.04
+50580,Grocery Item 580,Grocery,3.0,8.0,68.21,48.72
+50581,Home Item 581,Home,15.0,15.0,55.43,39.59
+50582,Grocery Item 582,Grocery,3.0,8.0,43.37,30.98
+50583,Personal Care Item 583,Personal Care,3.0,8.0,65.23,46.59
+50584,Home Item 584,Home,15.0,15.0,39.56,28.26
+50585,Electronics Item 585,Electronics,8.0,10.0,36.97,26.41
+50586,Electronics Item 586,Electronics,8.0,10.0,10.25,7.32
+50587,Grocery Item 587,Grocery,3.0,8.0,13.05,9.32
+50588,Toys Item 588,Toys,8.0,10.0,45.08,32.2
+50589,Toys Item 589,Toys,8.0,10.0,36.13,25.81
+50590,Electronics Item 590,Electronics,8.0,10.0,8.55,6.11
+50591,Grocery Item 591,Grocery,3.0,8.0,13.64,9.74
+50592,Grocery Item 592,Grocery,3.0,8.0,40.94,29.24
+50593,Toys Item 593,Toys,8.0,10.0,23.07,16.48
+50594,Electronics Item 594,Electronics,8.0,10.0,51.48,36.77
+50595,Home Item 595,Home,15.0,15.0,10.68,7.63
+50596,Personal Care Item 596,Personal Care,3.0,8.0,35.91,25.65
+50597,Home Item 597,Home,15.0,15.0,26.19,18.71
+50598,Home Item 598,Home,15.0,15.0,69.86,49.9
+50599,Personal Care Item 599,Personal Care,3.0,8.0,35.0,25.0
+50600,Home Item 600,Home,15.0,15.0,53.16,37.97
+50601,Grocery Item 601,Grocery,3.0,8.0,28.62,20.44
+50602,Personal Care Item 602,Personal Care,3.0,8.0,63.8,45.57
+50603,Personal Care Item 603,Personal Care,3.0,8.0,26.61,19.01
+50604,Toys Item 604,Toys,8.0,10.0,27.38,19.56
+50605,Home Item 605,Home,15.0,15.0,52.12,37.23
+50606,Electronics Item 606,Electronics,8.0,10.0,52.11,37.22
+50607,Home Item 607,Home,15.0,15.0,11.76,8.4
+50608,Grocery Item 608,Grocery,3.0,8.0,44.07,31.48
+50609,Electronics Item 609,Electronics,8.0,10.0,18.93,13.52
+50610,Home Item 610,Home,15.0,15.0,57.05,40.75
+50611,Home Item 611,Home,15.0,15.0,47.82,34.16
+50612,Home Item 612,Home,15.0,15.0,51.14,36.53
+50613,Grocery Item 613,Grocery,3.0,8.0,23.0,16.43
+50614,Grocery Item 614,Grocery,3.0,8.0,22.53,16.09
+50615,Toys Item 615,Toys,8.0,10.0,43.96,31.4
+50616,Home Item 616,Home,15.0,15.0,64.44,46.03
+50617,Home Item 617,Home,15.0,15.0,43.81,31.29
+50618,Home Item 618,Home,15.0,15.0,61.91,44.22
+50619,Toys Item 619,Toys,8.0,10.0,67.17,47.98
+50620,Personal Care Item 620,Personal Care,3.0,8.0,31.51,22.51
+50621,Home Item 621,Home,15.0,15.0,41.17,29.41
+50622,Grocery Item 622,Grocery,3.0,8.0,68.6,49.0
+50623,Home Item 623,Home,15.0,15.0,12.17,8.69
+50624,Grocery Item 624,Grocery,3.0,8.0,24.23,17.31
+50625,Grocery Item 625,Grocery,3.0,8.0,10.75,7.68
+50626,Personal Care Item 626,Personal Care,3.0,8.0,37.55,26.82
+50627,Personal Care Item 627,Personal Care,3.0,8.0,41.44,29.6
+50628,Toys Item 628,Toys,8.0,10.0,48.44,34.6
+50629,Electronics Item 629,Electronics,8.0,10.0,59.35,42.39
+50630,Personal Care Item 630,Personal Care,3.0,8.0,52.01,37.15
+50631,Toys Item 631,Toys,8.0,10.0,20.57,14.69
+50632,Toys Item 632,Toys,8.0,10.0,60.9,43.5
+50633,Personal Care Item 633,Personal Care,3.0,8.0,39.72,28.37
+50634,Personal Care Item 634,Personal Care,3.0,8.0,18.9,13.5
+50635,Electronics Item 635,Electronics,8.0,10.0,67.86,48.47
+50636,Home Item 636,Home,15.0,15.0,39.42,28.16
+50637,Toys Item 637,Toys,8.0,10.0,62.86,44.9
+50638,Electronics Item 638,Electronics,8.0,10.0,59.33,42.38
+50639,Grocery Item 639,Grocery,3.0,8.0,44.8,32.0
+50640,Grocery Item 640,Grocery,3.0,8.0,9.97,7.12
+50641,Toys Item 641,Toys,8.0,10.0,46.63,33.31
+50642,Toys Item 642,Toys,8.0,10.0,43.67,31.19
+50643,Home Item 643,Home,15.0,15.0,33.04,23.6
+50644,Home Item 644,Home,15.0,15.0,65.62,46.87
+50645,Home Item 645,Home,15.0,15.0,67.24,48.03
+50646,Electronics Item 646,Electronics,8.0,10.0,9.83,7.02
+50647,Grocery Item 647,Grocery,3.0,8.0,33.1,23.64
+50648,Electronics Item 648,Electronics,8.0,10.0,33.63,24.02
+50649,Electronics Item 649,Electronics,8.0,10.0,43.86,31.33
+50650,Electronics Item 650,Electronics,8.0,10.0,40.61,29.01
+50651,Personal Care Item 651,Personal Care,3.0,8.0,54.19,38.71
+50652,Electronics Item 652,Electronics,8.0,10.0,44.18,31.56
+50653,Toys Item 653,Toys,8.0,10.0,69.73,49.81
+50654,Electronics Item 654,Electronics,8.0,10.0,27.19,19.42
+50655,Toys Item 655,Toys,8.0,10.0,68.45,48.89
+50656,Grocery Item 656,Grocery,3.0,8.0,14.91,10.65
+50657,Personal Care Item 657,Personal Care,3.0,8.0,7.7,5.5
+50658,Grocery Item 658,Grocery,3.0,8.0,13.68,9.77
+50659,Personal Care Item 659,Personal Care,3.0,8.0,15.93,11.38
+50660,Grocery Item 660,Grocery,3.0,8.0,33.35,23.82
+50661,Personal Care Item 661,Personal Care,3.0,8.0,57.76,41.26
+50662,Personal Care Item 662,Personal Care,3.0,8.0,38.95,27.82
+50663,Home Item 663,Home,15.0,15.0,19.24,13.74
+50664,Home Item 664,Home,15.0,15.0,18.42,13.16
+50665,Home Item 665,Home,15.0,15.0,34.51,24.65
+50666,Electronics Item 666,Electronics,8.0,10.0,47.94,34.24
+50667,Personal Care Item 667,Personal Care,3.0,8.0,58.81,42.01
+50668,Toys Item 668,Toys,8.0,10.0,53.83,38.45
+50669,Toys Item 669,Toys,8.0,10.0,32.87,23.48
+50670,Grocery Item 670,Grocery,3.0,8.0,16.48,11.77
+50671,Personal Care Item 671,Personal Care,3.0,8.0,42.91,30.65
+50672,Electronics Item 672,Electronics,8.0,10.0,62.87,44.91
+50673,Home Item 673,Home,15.0,15.0,21.62,15.44
+50674,Electronics Item 674,Electronics,8.0,10.0,58.27,41.62
+50675,Grocery Item 675,Grocery,3.0,8.0,29.27,20.91
+50676,Personal Care Item 676,Personal Care,3.0,8.0,21.69,15.49
+50677,Personal Care Item 677,Personal Care,3.0,8.0,49.78,35.56
+50678,Personal Care Item 678,Personal Care,3.0,8.0,23.58,16.84
+50679,Home Item 679,Home,15.0,15.0,62.62,44.73
+50680,Personal Care Item 680,Personal Care,3.0,8.0,18.83,13.45
+50681,Home Item 681,Home,15.0,15.0,51.49,36.78
+50682,Grocery Item 682,Grocery,3.0,8.0,29.47,21.05
+50683,Personal Care Item 683,Personal Care,3.0,8.0,17.64,12.6
+50684,Home Item 684,Home,15.0,15.0,45.47,32.48
+50685,Toys Item 685,Toys,8.0,10.0,46.34,33.1
+50686,Grocery Item 686,Grocery,3.0,8.0,50.36,35.97
+50687,Personal Care Item 687,Personal Care,3.0,8.0,34.24,24.46
+50688,Grocery Item 688,Grocery,3.0,8.0,49.2,35.14
+50689,Home Item 689,Home,15.0,15.0,33.47,23.91
+50690,Grocery Item 690,Grocery,3.0,8.0,27.87,19.91
+50691,Toys Item 691,Toys,8.0,10.0,29.36,20.97
+50692,Grocery Item 692,Grocery,3.0,8.0,25.49,18.21
+50693,Home Item 693,Home,15.0,15.0,64.4,46.0
+50694,Toys Item 694,Toys,8.0,10.0,10.64,7.6
+50695,Electronics Item 695,Electronics,8.0,10.0,61.63,44.02
+50696,Personal Care Item 696,Personal Care,3.0,8.0,16.24,11.6
+50697,Grocery Item 697,Grocery,3.0,8.0,49.28,35.2
+50698,Personal Care Item 698,Personal Care,3.0,8.0,10.7,7.64
+50699,Home Item 699,Home,15.0,15.0,52.51,37.51
+50700,Toys Item 700,Toys,8.0,10.0,45.63,32.59
+50701,Personal Care Item 701,Personal Care,3.0,8.0,63.1,45.07
+50702,Electronics Item 702,Electronics,8.0,10.0,34.19,24.42
+50703,Electronics Item 703,Electronics,8.0,10.0,35.2,25.14
+50704,Electronics Item 704,Electronics,8.0,10.0,12.21,8.72
+50705,Home Item 705,Home,15.0,15.0,15.05,10.75
+50706,Grocery Item 706,Grocery,3.0,8.0,45.25,32.32
+50707,Grocery Item 707,Grocery,3.0,8.0,63.22,45.16
+50708,Electronics Item 708,Electronics,8.0,10.0,13.33,9.52
+50709,Home Item 709,Home,15.0,15.0,10.74,7.67
+50710,Home Item 710,Home,15.0,15.0,55.66,39.76
+50711,Grocery Item 711,Grocery,3.0,8.0,61.74,44.1
+50712,Grocery Item 712,Grocery,3.0,8.0,36.36,25.97
+50713,Home Item 713,Home,15.0,15.0,57.88,41.34
+50714,Toys Item 714,Toys,8.0,10.0,58.8,42.0
+50715,Home Item 715,Home,15.0,15.0,31.82,22.73
+50716,Personal Care Item 716,Personal Care,3.0,8.0,33.1,23.64
+50717,Home Item 717,Home,15.0,15.0,29.6,21.14
+50718,Grocery Item 718,Grocery,3.0,8.0,19.56,13.97
+50719,Personal Care Item 719,Personal Care,3.0,8.0,14.21,10.15
+50720,Personal Care Item 720,Personal Care,3.0,8.0,36.58,26.13
+50721,Toys Item 721,Toys,8.0,10.0,7.49,5.35
+50722,Home Item 722,Home,15.0,15.0,7.39,5.28
+50723,Electronics Item 723,Electronics,8.0,10.0,11.52,8.23
+50724,Personal Care Item 724,Personal Care,3.0,8.0,38.26,27.33
+50725,Grocery Item 725,Grocery,3.0,8.0,28.84,20.6
+50726,Toys Item 726,Toys,8.0,10.0,69.89,49.92
+50727,Electronics Item 727,Electronics,8.0,10.0,57.79,41.28
+50728,Home Item 728,Home,15.0,15.0,51.11,36.51
+50729,Personal Care Item 729,Personal Care,3.0,8.0,21.97,15.69
+50730,Toys Item 730,Toys,8.0,10.0,63.45,45.32
+50731,Grocery Item 731,Grocery,3.0,8.0,33.21,23.72
+50732,Grocery Item 732,Grocery,3.0,8.0,67.16,47.97
+50733,Grocery Item 733,Grocery,3.0,8.0,58.02,41.44
+50734,Electronics Item 734,Electronics,8.0,10.0,17.05,12.18
+50735,Electronics Item 735,Electronics,8.0,10.0,21.88,15.63
+50736,Home Item 736,Home,15.0,15.0,28.14,20.1
+50737,Personal Care Item 737,Personal Care,3.0,8.0,42.1,30.07
+50738,Home Item 738,Home,15.0,15.0,56.84,40.6
+50739,Electronics Item 739,Electronics,8.0,10.0,31.44,22.46
+50740,Electronics Item 740,Electronics,8.0,10.0,27.69,19.78
+50741,Personal Care Item 741,Personal Care,3.0,8.0,24.91,17.79
+50742,Grocery Item 742,Grocery,3.0,8.0,60.38,43.13
+50743,Grocery Item 743,Grocery,3.0,8.0,26.89,19.21
+50744,Electronics Item 744,Electronics,8.0,10.0,58.11,41.51
+50745,Grocery Item 745,Grocery,3.0,8.0,23.6,16.86
+50746,Grocery Item 746,Grocery,3.0,8.0,54.98,39.27
+50747,Electronics Item 747,Electronics,8.0,10.0,63.15,45.11
+50748,Home Item 748,Home,15.0,15.0,26.25,18.75
+50749,Grocery Item 749,Grocery,3.0,8.0,65.06,46.47
+50750,Home Item 750,Home,15.0,15.0,50.74,36.24
+50751,Home Item 751,Home,15.0,15.0,66.68,47.63
+50752,Toys Item 752,Toys,8.0,10.0,34.72,24.8
+50753,Toys Item 753,Toys,8.0,10.0,8.64,6.17
+50754,Personal Care Item 754,Personal Care,3.0,8.0,35.0,25.0
+50755,Personal Care Item 755,Personal Care,3.0,8.0,23.17,16.55
+50756,Grocery Item 756,Grocery,3.0,8.0,13.8,9.86
+50757,Grocery Item 757,Grocery,3.0,8.0,57.53,41.09
+50758,Electronics Item 758,Electronics,8.0,10.0,43.36,30.97
+50759,Home Item 759,Home,15.0,15.0,50.64,36.17
+50760,Home Item 760,Home,15.0,15.0,61.95,44.25
+50761,Electronics Item 761,Electronics,8.0,10.0,24.29,17.35
+50762,Grocery Item 762,Grocery,3.0,8.0,57.48,41.06
+50763,Personal Care Item 763,Personal Care,3.0,8.0,60.42,43.16
+50764,Electronics Item 764,Electronics,8.0,10.0,13.78,9.84
+50765,Electronics Item 765,Electronics,8.0,10.0,64.05,45.75
+50766,Grocery Item 766,Grocery,3.0,8.0,32.1,22.93
+50767,Toys Item 767,Toys,8.0,10.0,52.37,37.41
+50768,Personal Care Item 768,Personal Care,3.0,8.0,55.97,39.98
+50769,Grocery Item 769,Grocery,3.0,8.0,65.55,46.82
+50770,Grocery Item 770,Grocery,3.0,8.0,21.13,15.09
+50771,Grocery Item 771,Grocery,3.0,8.0,51.98,37.13
+50772,Home Item 772,Home,15.0,15.0,45.16,32.26
+50773,Toys Item 773,Toys,8.0,10.0,37.06,26.47
+50774,Toys Item 774,Toys,8.0,10.0,9.77,6.98
+50775,Personal Care Item 775,Personal Care,3.0,8.0,60.66,43.33
+50776,Grocery Item 776,Grocery,3.0,8.0,56.81,40.58
+50777,Home Item 777,Home,15.0,15.0,29.47,21.05
+50778,Electronics Item 778,Electronics,8.0,10.0,47.15,33.68
+50779,Electronics Item 779,Electronics,8.0,10.0,24.85,17.75
+50780,Grocery Item 780,Grocery,3.0,8.0,62.48,44.63
+50781,Toys Item 781,Toys,8.0,10.0,57.86,41.33
+50782,Electronics Item 782,Electronics,8.0,10.0,65.55,46.82
+50783,Electronics Item 783,Electronics,8.0,10.0,12.92,9.23
+50784,Grocery Item 784,Grocery,3.0,8.0,27.8,19.86
+50785,Electronics Item 785,Electronics,8.0,10.0,60.96,43.54
+50786,Electronics Item 786,Electronics,8.0,10.0,15.85,11.32
+50787,Home Item 787,Home,15.0,15.0,32.34,23.1
+50788,Home Item 788,Home,15.0,15.0,14.08,10.06
+50789,Electronics Item 789,Electronics,8.0,10.0,18.65,13.32
+50790,Home Item 790,Home,15.0,15.0,11.4,8.14
+50791,Home Item 791,Home,15.0,15.0,8.3,5.93
+50792,Home Item 792,Home,15.0,15.0,38.08,27.2
+50793,Toys Item 793,Toys,8.0,10.0,48.59,34.71
+50794,Personal Care Item 794,Personal Care,3.0,8.0,11.23,8.02
+50795,Grocery Item 795,Grocery,3.0,8.0,51.02,36.44
+50796,Electronics Item 796,Electronics,8.0,10.0,51.74,36.96
+50797,Personal Care Item 797,Personal Care,3.0,8.0,60.79,43.42
+50798,Grocery Item 798,Grocery,3.0,8.0,48.66,34.76
+50799,Personal Care Item 799,Personal Care,3.0,8.0,16.87,12.05
+50800,Grocery Item 800,Grocery,3.0,8.0,57.06,40.76
+50801,Toys Item 801,Toys,8.0,10.0,8.55,6.11
+50802,Toys Item 802,Toys,8.0,10.0,56.29,40.21
+50803,Toys Item 803,Toys,8.0,10.0,33.81,24.15
+50804,Toys Item 804,Toys,8.0,10.0,12.36,8.83
+50805,Grocery Item 805,Grocery,3.0,8.0,16.93,12.09
+50806,Home Item 806,Home,15.0,15.0,54.73,39.09
+50807,Grocery Item 807,Grocery,3.0,8.0,22.64,16.17
+50808,Home Item 808,Home,15.0,15.0,59.43,42.45
+50809,Electronics Item 809,Electronics,8.0,10.0,7.28,5.2
+50810,Toys Item 810,Toys,8.0,10.0,52.54,37.53
+50811,Toys Item 811,Toys,8.0,10.0,34.58,24.7
+50812,Toys Item 812,Toys,8.0,10.0,17.92,12.8
+50813,Electronics Item 813,Electronics,8.0,10.0,17.43,12.45
+50814,Toys Item 814,Toys,8.0,10.0,27.62,19.73
+50815,Home Item 815,Home,15.0,15.0,61.68,44.06
+50816,Electronics Item 816,Electronics,8.0,10.0,59.23,42.31
+50817,Personal Care Item 817,Personal Care,3.0,8.0,27.33,19.52
+50818,Toys Item 818,Toys,8.0,10.0,14.04,10.03
+50819,Electronics Item 819,Electronics,8.0,10.0,39.12,27.94
+50820,Electronics Item 820,Electronics,8.0,10.0,18.91,13.51
+50821,Toys Item 821,Toys,8.0,10.0,25.28,18.06
+50822,Personal Care Item 822,Personal Care,3.0,8.0,13.16,9.4
+50823,Grocery Item 823,Grocery,3.0,8.0,65.24,46.6
+50824,Toys Item 824,Toys,8.0,10.0,45.81,32.72
+50825,Home Item 825,Home,15.0,15.0,35.42,25.3
+50826,Home Item 826,Home,15.0,15.0,65.44,46.74
+50827,Electronics Item 827,Electronics,8.0,10.0,27.19,19.42
+50828,Grocery Item 828,Grocery,3.0,8.0,25.84,18.46
+50829,Grocery Item 829,Grocery,3.0,8.0,60.79,43.42
+50830,Toys Item 830,Toys,8.0,10.0,28.2,20.14
+50831,Grocery Item 831,Grocery,3.0,8.0,49.01,35.01
+50832,Personal Care Item 832,Personal Care,3.0,8.0,59.91,42.79
+50833,Toys Item 833,Toys,8.0,10.0,61.07,43.62
+50834,Grocery Item 834,Grocery,3.0,8.0,55.86,39.9
+50835,Personal Care Item 835,Personal Care,3.0,8.0,68.43,48.88
+50836,Personal Care Item 836,Personal Care,3.0,8.0,22.43,16.02
+50837,Personal Care Item 837,Personal Care,3.0,8.0,26.87,19.19
+50838,Toys Item 838,Toys,8.0,10.0,13.66,9.76
+50839,Home Item 839,Home,15.0,15.0,20.85,14.89
+50840,Home Item 840,Home,15.0,15.0,54.85,39.18
+50841,Electronics Item 841,Electronics,8.0,10.0,69.99,49.99
+50842,Toys Item 842,Toys,8.0,10.0,59.09,42.21
+50843,Electronics Item 843,Electronics,8.0,10.0,41.65,29.75
+50844,Electronics Item 844,Electronics,8.0,10.0,8.36,5.97
+50845,Electronics Item 845,Electronics,8.0,10.0,35.91,25.65
+50846,Grocery Item 846,Grocery,3.0,8.0,30.74,21.96
+50847,Toys Item 847,Toys,8.0,10.0,15.12,10.8
+50848,Personal Care Item 848,Personal Care,3.0,8.0,69.38,49.56
+50849,Toys Item 849,Toys,8.0,10.0,11.26,8.04
+50850,Personal Care Item 850,Personal Care,3.0,8.0,13.75,9.82
+50851,Grocery Item 851,Grocery,3.0,8.0,28.06,20.04
+50852,Electronics Item 852,Electronics,8.0,10.0,30.2,21.57
+50853,Home Item 853,Home,15.0,15.0,10.26,7.33
+50854,Electronics Item 854,Electronics,8.0,10.0,45.37,32.41
+50855,Home Item 855,Home,15.0,15.0,42.46,30.33
+50856,Personal Care Item 856,Personal Care,3.0,8.0,7.15,5.11
+50857,Home Item 857,Home,15.0,15.0,39.55,28.25
+50858,Grocery Item 858,Grocery,3.0,8.0,44.21,31.58
+50859,Personal Care Item 859,Personal Care,3.0,8.0,8.2,5.86
+50860,Personal Care Item 860,Personal Care,3.0,8.0,12.54,8.96
+50861,Personal Care Item 861,Personal Care,3.0,8.0,53.77,38.41
+50862,Personal Care Item 862,Personal Care,3.0,8.0,32.17,22.98
+50863,Personal Care Item 863,Personal Care,3.0,8.0,41.33,29.52
+50864,Home Item 864,Home,15.0,15.0,8.72,6.23
+50865,Home Item 865,Home,15.0,15.0,36.86,26.33
+50866,Personal Care Item 866,Personal Care,3.0,8.0,42.94,30.67
+50867,Home Item 867,Home,15.0,15.0,24.22,17.3
+50868,Electronics Item 868,Electronics,8.0,10.0,28.49,20.35
+50869,Toys Item 869,Toys,8.0,10.0,38.01,27.15
+50870,Home Item 870,Home,15.0,15.0,55.99,39.99
+50871,Electronics Item 871,Electronics,8.0,10.0,63.67,45.48
+50872,Grocery Item 872,Grocery,3.0,8.0,40.12,28.66
+50873,Toys Item 873,Toys,8.0,10.0,7.91,5.65
+50874,Grocery Item 874,Grocery,3.0,8.0,38.74,27.67
+50875,Personal Care Item 875,Personal Care,3.0,8.0,23.21,16.58
+50876,Personal Care Item 876,Personal Care,3.0,8.0,24.07,17.19
+50877,Home Item 877,Home,15.0,15.0,54.57,38.98
+50878,Personal Care Item 878,Personal Care,3.0,8.0,33.77,24.12
+50879,Home Item 879,Home,15.0,15.0,57.85,41.32
+50880,Grocery Item 880,Grocery,3.0,8.0,13.41,9.58
+50881,Grocery Item 881,Grocery,3.0,8.0,22.86,16.33
+50882,Personal Care Item 882,Personal Care,3.0,8.0,29.25,20.89
+50883,Toys Item 883,Toys,8.0,10.0,17.44,12.46
+50884,Personal Care Item 884,Personal Care,3.0,8.0,38.79,27.71
+50885,Grocery Item 885,Grocery,3.0,8.0,9.38,6.7
+50886,Electronics Item 886,Electronics,8.0,10.0,52.29,37.35
+50887,Personal Care Item 887,Personal Care,3.0,8.0,27.09,19.35
+50888,Toys Item 888,Toys,8.0,10.0,49.78,35.56
+50889,Personal Care Item 889,Personal Care,3.0,8.0,7.24,5.17
+50890,Personal Care Item 890,Personal Care,3.0,8.0,26.8,19.14
+50891,Toys Item 891,Toys,8.0,10.0,59.74,42.67
+50892,Electronics Item 892,Electronics,8.0,10.0,24.07,17.19
+50893,Home Item 893,Home,15.0,15.0,22.57,16.12
+50894,Home Item 894,Home,15.0,15.0,12.45,8.89
+50895,Grocery Item 895,Grocery,3.0,8.0,56.39,40.28
+50896,Electronics Item 896,Electronics,8.0,10.0,8.32,5.94
+50897,Electronics Item 897,Electronics,8.0,10.0,59.77,42.69
+50898,Electronics Item 898,Electronics,8.0,10.0,15.65,11.18
+50899,Personal Care Item 899,Personal Care,3.0,8.0,37.31,26.65
+50900,Personal Care Item 900,Personal Care,3.0,8.0,17.81,12.72
+50901,Electronics Item 901,Electronics,8.0,10.0,16.76,11.97
+50902,Electronics Item 902,Electronics,8.0,10.0,50.47,36.05
+50903,Toys Item 903,Toys,8.0,10.0,53.54,38.24
+50904,Personal Care Item 904,Personal Care,3.0,8.0,10.23,7.31
+50905,Toys Item 905,Toys,8.0,10.0,34.45,24.61
+50906,Home Item 906,Home,15.0,15.0,50.75,36.25
+50907,Electronics Item 907,Electronics,8.0,10.0,58.06,41.47
+50908,Electronics Item 908,Electronics,8.0,10.0,8.04,5.74
+50909,Personal Care Item 909,Personal Care,3.0,8.0,36.62,26.16
+50910,Electronics Item 910,Electronics,8.0,10.0,48.82,34.87
+50911,Electronics Item 911,Electronics,8.0,10.0,40.15,28.68
+50912,Home Item 912,Home,15.0,15.0,57.47,41.05
+50913,Toys Item 913,Toys,8.0,10.0,52.98,37.84
+50914,Personal Care Item 914,Personal Care,3.0,8.0,31.72,22.66
+50915,Toys Item 915,Toys,8.0,10.0,44.73,31.95
+50916,Grocery Item 916,Grocery,3.0,8.0,39.52,28.23
+50917,Electronics Item 917,Electronics,8.0,10.0,68.81,49.15
+50918,Electronics Item 918,Electronics,8.0,10.0,63.08,45.06
+50919,Electronics Item 919,Electronics,8.0,10.0,15.83,11.31
+50920,Electronics Item 920,Electronics,8.0,10.0,61.39,43.85
+50921,Personal Care Item 921,Personal Care,3.0,8.0,23.32,16.66
+50922,Toys Item 922,Toys,8.0,10.0,68.28,48.77
+50923,Personal Care Item 923,Personal Care,3.0,8.0,41.26,29.47
+50924,Home Item 924,Home,15.0,15.0,8.57,6.12
+50925,Grocery Item 925,Grocery,3.0,8.0,27.44,19.6
+50926,Grocery Item 926,Grocery,3.0,8.0,34.64,24.74
+50927,Toys Item 927,Toys,8.0,10.0,38.14,27.24
+50928,Toys Item 928,Toys,8.0,10.0,31.72,22.66
+50929,Toys Item 929,Toys,8.0,10.0,61.99,44.28
+50930,Home Item 930,Home,15.0,15.0,61.81,44.15
+50931,Grocery Item 931,Grocery,3.0,8.0,30.76,21.97
+50932,Home Item 932,Home,15.0,15.0,18.49,13.21
+50933,Home Item 933,Home,15.0,15.0,19.36,13.83
+50934,Home Item 934,Home,15.0,15.0,62.61,44.72
+50935,Grocery Item 935,Grocery,3.0,8.0,21.03,15.02
+50936,Toys Item 936,Toys,8.0,10.0,31.84,22.74
+50937,Personal Care Item 937,Personal Care,3.0,8.0,69.69,49.78
+50938,Electronics Item 938,Electronics,8.0,10.0,54.14,38.67
+50939,Electronics Item 939,Electronics,8.0,10.0,23.67,16.91
+50940,Grocery Item 940,Grocery,3.0,8.0,24.91,17.79
+50941,Home Item 941,Home,15.0,15.0,26.17,18.69
+50942,Electronics Item 942,Electronics,8.0,10.0,15.01,10.72
+50943,Electronics Item 943,Electronics,8.0,10.0,42.04,30.03
+50944,Electronics Item 944,Electronics,8.0,10.0,62.26,44.47
+50945,Toys Item 945,Toys,8.0,10.0,30.38,21.7
+50946,Grocery Item 946,Grocery,3.0,8.0,21.78,15.56
+50947,Toys Item 947,Toys,8.0,10.0,44.32,31.66
+50948,Electronics Item 948,Electronics,8.0,10.0,47.45,33.89
+50949,Grocery Item 949,Grocery,3.0,8.0,63.49,45.35
+50950,Electronics Item 950,Electronics,8.0,10.0,49.08,35.06
+50951,Electronics Item 951,Electronics,8.0,10.0,8.96,6.4
+50952,Grocery Item 952,Grocery,3.0,8.0,31.99,22.85
+50953,Toys Item 953,Toys,8.0,10.0,41.41,29.58
+50954,Grocery Item 954,Grocery,3.0,8.0,21.48,15.34
+50955,Toys Item 955,Toys,8.0,10.0,41.02,29.3
+50956,Personal Care Item 956,Personal Care,3.0,8.0,60.52,43.23
+50957,Toys Item 957,Toys,8.0,10.0,65.98,47.13
+50958,Electronics Item 958,Electronics,8.0,10.0,29.74,21.24
+50959,Electronics Item 959,Electronics,8.0,10.0,15.96,11.4
+50960,Toys Item 960,Toys,8.0,10.0,56.34,40.24
+50961,Toys Item 961,Toys,8.0,10.0,15.39,10.99
+50962,Electronics Item 962,Electronics,8.0,10.0,34.68,24.77
+50963,Toys Item 963,Toys,8.0,10.0,27.78,19.84
+50964,Electronics Item 964,Electronics,8.0,10.0,56.83,40.59
+50965,Grocery Item 965,Grocery,3.0,8.0,47.12,33.66
+50966,Toys Item 966,Toys,8.0,10.0,58.28,41.63
+50967,Personal Care Item 967,Personal Care,3.0,8.0,38.36,27.4
+50968,Toys Item 968,Toys,8.0,10.0,23.37,16.69
+50969,Electronics Item 969,Electronics,8.0,10.0,64.53,46.09
+50970,Home Item 970,Home,15.0,15.0,30.81,22.01
+50971,Toys Item 971,Toys,8.0,10.0,29.32,20.94
+50972,Home Item 972,Home,15.0,15.0,38.01,27.15
+50973,Personal Care Item 973,Personal Care,3.0,8.0,65.2,46.57
+50974,Electronics Item 974,Electronics,8.0,10.0,68.89,49.21
+50975,Grocery Item 975,Grocery,3.0,8.0,50.46,36.04
+50976,Personal Care Item 976,Personal Care,3.0,8.0,10.23,7.31
+50977,Electronics Item 977,Electronics,8.0,10.0,8.53,6.09
+50978,Grocery Item 978,Grocery,3.0,8.0,23.35,16.68
+50979,Home Item 979,Home,15.0,15.0,59.07,42.19
+50980,Toys Item 980,Toys,8.0,10.0,26.05,18.61
+50981,Toys Item 981,Toys,8.0,10.0,11.09,7.92
+50982,Grocery Item 982,Grocery,3.0,8.0,29.74,21.24
+50983,Grocery Item 983,Grocery,3.0,8.0,58.93,42.09
+50984,Home Item 984,Home,15.0,15.0,20.4,14.57
+50985,Grocery Item 985,Grocery,3.0,8.0,36.26,25.9
+50986,Toys Item 986,Toys,8.0,10.0,33.63,24.02
+50987,Home Item 987,Home,15.0,15.0,49.77,35.55
+50988,Toys Item 988,Toys,8.0,10.0,29.13,20.81
+50989,Grocery Item 989,Grocery,3.0,8.0,26.82,19.16
+50990,Toys Item 990,Toys,8.0,10.0,21.08,15.06
+50991,Home Item 991,Home,15.0,15.0,19.08,13.63
+50992,Grocery Item 992,Grocery,3.0,8.0,28.98,20.7
+50993,Personal Care Item 993,Personal Care,3.0,8.0,64.16,45.83
+50994,Toys Item 994,Toys,8.0,10.0,65.67,46.91
+50995,Electronics Item 995,Electronics,8.0,10.0,18.31,13.08
+50996,Personal Care Item 996,Personal Care,3.0,8.0,18.4,13.14
+50997,Personal Care Item 997,Personal Care,3.0,8.0,43.18,30.84
+50998,Personal Care Item 998,Personal Care,3.0,8.0,32.42,23.16
+50999,Toys Item 999,Toys,8.0,10.0,35.5,25.36
+51000,Home Item 1000,Home,15.0,15.0,8.75,6.25

@@ -1,0 +1,21 @@
+store_id,store_name,city,format,traffic_profile,shelf_capacity_ft
+3000,Store 3000 - Bentonville Supercenter,Bentonville,Supercenter,High,900
+3001,Store 3001 - Rogers Supercenter,Rogers,Supercenter,High,875
+3002,Store 3002 - Fayetteville Supercenter,Fayetteville,Supercenter,High,925
+3003,Store 3003 - Springdale Supercenter,Springdale,Supercenter,Med,800
+3004,Store 3004 - Centerton Neighborhood Mkt,Centerton,Neighborhood Mkt,Med,225
+3005,Store 3005 - Bella Vista Supercenter,Bella Vista,Supercenter,Med,750
+3006,Store 3006 - Lowell Neighborhood Mkt,Lowell,Neighborhood Mkt,Med,210
+3007,Store 3007 - Farmington Neighborhood Mkt,Farmington,Neighborhood Mkt,Med,200
+3008,Store 3008 - Pea Ridge Neighborhood Mkt,Pea Ridge,Neighborhood Mkt,Low,190
+3009,Store 3009 - Gravette Supercenter,Gravette,Supercenter,Low,600
+3010,Store 3010 - Siloam Springs Supercenter,Siloam Springs,Supercenter,Med,700
+3011,Store 3011 - Huntsville Supercenter,Huntsville,Supercenter,Low,550
+3012,Store 3012 - Fayetteville (campus) Express,Fayetteville (campus),Express,High,75
+3013,Store 3013 - Fayetteville (MLK) Supercenter,Fayetteville (MLK),Supercenter,High,850
+3014,Store 3014 - Bentonville Supercenter,Bentonville,Supercenter,High,900
+3015,Store 3015 - Farmington Neighborhood Mkt,Farmington,Neighborhood Mkt,Med,200
+3016,Store 3016 - Rogers Supercenter,Rogers,Supercenter,High,875
+3017,Store 3017 - Farmington Neighborhood Mkt,Farmington,Neighborhood Mkt,Med,200
+3018,Store 3018 - Farmington Neighborhood Mkt,Farmington,Neighborhood Mkt,Med,200
+3019,Store 3019 - Bella Vista Supercenter,Bella Vista,Supercenter,Med,750
